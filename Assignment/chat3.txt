@@ -1,0 +1,4 @@
+User: How do I train a neural network?
+AI: First, collect and preprocess your data, then define your model using a framework like TensorFlow or PyTorch.
+User: Is it hard to learn PyTorch?
+AI: Not really. It's beginner-friendly and has great documentation.

@@ -1,0 +1,5 @@
+User: Hey, what's the weather like today?
+AI: I'm not connected to the internet, but you can check a weather app for real-time info.
+User: Got it. Thanks anyway!
+AI: You're welcome! Let me know if I can help with anything else.
+User: Thanks Again
