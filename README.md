@@ -44,3 +44,28 @@ Summary:
 - Most common keywords: learning, machine
 ```
 
+## Run Locally
+Clone the project 
+```
+git clone https://github.com/its-symon/ai-chat-summarizer.git
+
+```
+Go to project directory
+```
+cd ai-chat-summarizer
+```
+
+Install dependencies
+
+```
+python3.11 -m venv .venv
+
+source .venv/bin/activate
+```
+
+
+## Author
+
+👤 **Symon**
+
+- Github: [@sin1ter](https://github.com/sin1ter)
