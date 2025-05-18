@@ -9,6 +9,8 @@ if __name__ == "__main__":
     print(user_msgs)
     print("AI Messages:")
     print(ai_msgs)
+    print("\nStatistics:")
     print(calculate_statistics(user_msgs, ai_msgs))
+    print("\nKeywords:")
     print(extract_keywords(user_msgs, ai_msgs))
     generate_summary(user_msgs, ai_msgs)
