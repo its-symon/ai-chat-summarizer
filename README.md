@@ -18,12 +18,12 @@ This project extracts the most relevant keywords from a conversation between a u
 ## Sample Input (chat.txt)
 
 ```txt
-User: What is Python?
-AI: Python is a popular programming language.
-User: Can you tell me about machine learning?
-AI: Sure! Machine learning is a subfield of AI.
-User: I am learning NLP.
-AI: Great! NLP is an exciting area in machine learning.
+User: Hello!
+AI: Hi! How can I assist you today?
+User: Can you explain what machine learning is?
+AI: Certainly! Machine learning is a field of AI that allows systems to learn from data.
+User: I am learning NLP. Can you help me with that?
+AI: Yes, sure. What do you need?
 ```
 
 ## Sample Output 
