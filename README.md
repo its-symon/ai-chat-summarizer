@@ -46,7 +46,12 @@ Summary:
 
 ## Screenshot
 
+### For one chat.txt
 ![Farmers Market Finder Demo](image.png)
+
+### For multiple chat.txt in Assignment
+![Farmers Market Finder Demo](image1.png)
+
 
 ## Run Locally
 Clone the project 
