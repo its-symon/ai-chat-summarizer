@@ -44,6 +44,10 @@ Summary:
 - Most common keywords: learning, machine
 ```
 
+## Screenshot
+
+![Farmers Market Finder Demo](image.png)
+
 ## Run Locally
 Clone the project 
 ```
